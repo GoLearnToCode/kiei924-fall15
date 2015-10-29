@@ -7,10 +7,6 @@ question_board: false
 # Must be an array.  Start with a dash on its own line.
 # Then indent and provide label, url, and fa icon (optional)
 # The default icon is fa-cloud.
-sidebar:
-  
-  - 
-    label: "Community"
-    url: "https://northwestern.slack.com/"
-    icon: fa-slack
+# sidebar:
+
   
