@@ -1,6 +1,6 @@
 # Due Next Thursday by 11:59PM
 
-Create a new sub-folder of your code folder, and name it *weather*. Add this to your Github app and create the corresponding repository called *weather* in your Github account. When this project is complete, I should be able to view your project online at *https://github.com/<your username>/weather*.
+Create a new sub-folder of your code folder, and name it *weather*. Add this to your Github app and create the corresponding repository called *weather* in your Github account. When this project is complete, I should be able to view your project online at `*https://github.com/<your username>/weather*`.
 
 In your weather app, you should create two files:
 
