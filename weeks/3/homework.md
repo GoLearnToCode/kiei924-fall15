@@ -10,7 +10,7 @@ In your weather app, you should create two files:
 Using `https://github.com/kiei924-fall15/weather` to help guide you along (do not attempt to clone or fork this repository - just use it to help you get started) you should:
 
 - Link the Bootstrap CSS and JS files to index.html
-- Write code in weather.js so that clicking a button on the page retrieves weather data from Forecast.io and displays it on screen. You should include (at least):
+- Link weather.js to your index.html page, and write code in weather.js so that clicking a button on the page retrieves weather data from Forecast.io and displays it on screen. You should include (at least):
   - Current weather conditions
   - 3-day daily forecast
 
