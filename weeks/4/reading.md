@@ -2,3 +2,5 @@
 - [jQuery DOM Manipulation](http://api.jquery.com/category/manipulation/)
 - [jQuery Events](http://api.jquery.com/category/events/)
 - [jQuery Effects](http://api.jquery.com/category/effects/)
+- [jQuery Traversing](http://api.jquery.com/category/traversing/)
+- [Codepen](http://codepen.io/pens/)
