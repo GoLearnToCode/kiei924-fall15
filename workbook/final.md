@@ -2,7 +2,7 @@
 
 ### Due Date: Monday, December 7
 
-#### Core Requirements (30 points total)
+**Core Requirements (30 points total)**
 
 * A three-page static website (your username.github.io repository on Github)
   * You should have at least three HTML pages, linked together and accessible via a common navigation element, like Bootstrap's navbar or list group. (8 points)
